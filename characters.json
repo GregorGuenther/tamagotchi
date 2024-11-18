@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Bugs Bunny",
+        "age": 1,
+        "species": "Hase",
+        "description": "Hoppy ist ein freundlicher und energiegeladener Hase. Er liebt es zu springen und frische Karotten zu essen.",
+        "energy": 100,
+        "hunger": 20,
+        "mood": 100,
+        "abilities": [
+            "Springen",
+            "Buddeln",
+            "Karotten suchen"
+        ],
+        "alive": true,
+        "created_at": "2024-08-05T13:39:49.037590",
+        "fat_obesity": false
+    }
+]
